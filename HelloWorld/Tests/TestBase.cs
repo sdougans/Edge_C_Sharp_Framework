@@ -12,8 +12,6 @@ namespace HelloWorld.Tests
 
         public void SetUp(String browsername)
         {
-            Console.WriteLine(browsername);
-
             Init(browsername);
             //Init("Chrome");
             //Init("Firefox");
@@ -32,7 +30,8 @@ namespace HelloWorld.Tests
 
         public static IEnumerable<String> BrowserToRunWith()
         {
-            String[] browsers = {"Chrome", "Firefox"};
+            String[] browsers = { "Chrome", "Firefox" };
+            //String[] browsers = { "Chrome" };
 
             foreach (String b in browsers)
             {

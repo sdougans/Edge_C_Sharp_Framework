@@ -1,4 +1,5 @@
-﻿using OpenQA.Selenium;
+﻿using System;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 
@@ -8,19 +9,37 @@ public class Browsers
 
     public void Init(string browser)
     {
+        OperatingSystem os = Environment.OSVersion;
+        String platform = os.Platform.ToString();
+
         switch (browser)
         {
             case "Chrome":
-                driver = new ChromeDriver();
-                driver.Manage().Window.Maximize();
+                if (platform == "Unix")
+                    driver = new ChromeDriver("/Users/Stuart/Documents/SeleniumCourse/WebDrivers");
+                else
+                {
+                    driver = new ChromeDriver();
+                    driver.Manage().Window.Maximize();
+                }
                 break;
             case "Firefox":
-                driver = new FirefoxDriver();
-                driver.Manage().Window.Maximize();
+                if (platform == "Unix")
+                    driver = new FirefoxDriver("/Users/Stuart/Documents/SeleniumCourse/WebDrivers");
+                else
+                {
+                    driver = new FirefoxDriver();
+                    driver.Manage().Window.Maximize();
+                }
                 break;
             default:
-                driver = new ChromeDriver();
-                driver.Manage().Window.Maximize();
+                if (platform == "Unix")
+                    driver = new ChromeDriver("/Users/Stuart/Documents/SeleniumCourse/WebDrivers");
+                else
+                {
+                    driver = new ChromeDriver();
+                    driver.Manage().Window.Maximize();
+                }
                 break;
         }
 
