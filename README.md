@@ -12,7 +12,7 @@ Open Git Bash and navigate to the project folder - cd C:/Users/{username}/source
 Run git clone https://github.com/sdougans/Edge_C_Sharp_Framework.git
 
 
-Usage
+### Usage
 
 Open Microdoft Visual Studio 2019
 Launch the project - C:/Users/{username}/source/repos/{project_name}
