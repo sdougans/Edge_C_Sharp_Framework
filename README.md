@@ -3,21 +3,21 @@
 ## A simple C# framework using Selenium WebDriver and NUnit3
 
 ### Setup
-#### Install Microsoft Visual Studio 2019 - (https://visualstudio.microsoft.com/vs/)
+Install Microsoft Visual Studio 2019 - (https://visualstudio.microsoft.com/vs/)
 
-#### Install Git - (https://git-scm.com/download)
+Install Git - (https://git-scm.com/download)
 
-#### Create new project folder - C:/Users/{username}/source/repos/{project_name}
-#### Open Git Bash and navigate to the project folder - cd C:/Users/{username}/source/repos/{project_name}
-#### Run git clone https://github.com/sdougans/Edge_C_Sharp_Framework.git
+Create new project folder - C:/Users/{username}/source/repos/{project_name}
+Open Git Bash and navigate to the project folder - cd C:/Users/{username}/source/repos/{project_name}
+Run git clone https://github.com/sdougans/Edge_C_Sharp_Framework.git
 
 
-### Usage
+Usage
 
-#### Open Microdoft Visual Studio 2019
-#### Launch the project - C:/Users/{username}/source/repos/{project_name}
+Open Microdoft Visual Studio 2019
+Launch the project - C:/Users/{username}/source/repos/{project_name}
 
-#### NUnit3 tests located in /Tests/*.cs
-#### Page Objects located in /Pages/*.cs
-#### Browser capabilities located in /Support/Browsers.cs
-#### Allure reports will generate in /Reports
+NUnit3 tests located in /Tests/*.cs
+Page Objects located in /Pages/*.cs
+Browser capabilities located in /Support/Browsers.cs
+Allure reports will generate in /Reports
