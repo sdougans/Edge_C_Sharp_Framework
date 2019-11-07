@@ -1,1 +1,0 @@
-START allure open "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\allure_results"

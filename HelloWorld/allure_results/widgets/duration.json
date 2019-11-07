@@ -1,25 +1,5 @@
 [ {
-  "uid" : "ec471e6c93354252",
-  "name" : "LoginTest1(\"Chrome\")",
-  "time" : {
-    "start" : 1573120593389,
-    "stop" : 1573120600759,
-    "duration" : 7370
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d165f1014e3a4379",
-  "name" : "SimpleFormTest1(\"Chrome\")",
-  "time" : {
-    "start" : 1573120593389,
-    "stop" : 1573120601563,
-    "duration" : 8174
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9dcd691ee2618b5b",
+  "uid" : "45d420ba58022ef8",
   "name" : "SimpleFormTest1(\"Firefox\")",
   "time" : {
     "start" : 1573059469279,
@@ -29,12 +9,32 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "330257a4654e967f",
+  "uid" : "89a2be7c5182e84c",
+  "name" : "LoginTest1(\"Chrome\")",
+  "time" : {
+    "start" : 1573120593389,
+    "stop" : 1573120600759,
+    "duration" : 7370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "afdbc913caf7cadf",
   "name" : "LoginTest1(\"Firefox\")",
   "time" : {
     "start" : 1573059468917,
     "stop" : 1573059492154,
     "duration" : 23237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88755f3176b8f4fc",
+  "name" : "SimpleFormTest1(\"Chrome\")",
+  "time" : {
+    "start" : 1573120593389,
+    "stop" : 1573120601563,
+    "duration" : 8174
   },
   "status" : "passed",
   "severity" : "normal"
