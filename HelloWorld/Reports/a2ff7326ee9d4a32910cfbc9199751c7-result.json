@@ -1,0 +1,68 @@
+{
+  "uuid": "f36b1b18-a4de-4d94-9d86-6b4604996e75-tr-0-1002",
+  "historyId": "HelloWorld.Tests.LoginTest.LoginTest1(\"Firefox\")",
+  "fullName": "HelloWorld.Tests.LoginTest.LoginTest1(\"Firefox\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "EDGE-DESK06"
+    },
+    {
+      "name": "testClass",
+      "value": "HelloWorld.Tests.LoginTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginTest1"
+    },
+    {
+      "name": "package",
+      "value": "HelloWorld.Tests.LoginTest"
+    }
+  ],
+  "links": [],
+  "name": "LoginTest1(\"Firefox\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoginTest1(\"Firefox\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "685684fe2d65428baf750315cdf31470-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1573059281272,
+      "stop": 1573059304426
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Firefox"
+    }
+  ],
+  "start": 1573059281272,
+  "stop": 1573059304426
+}

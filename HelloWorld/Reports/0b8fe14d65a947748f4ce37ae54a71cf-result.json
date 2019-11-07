@@ -1,0 +1,68 @@
+{
+  "uuid": "45d41743-6ce3-402d-b1e4-9d1d1f29a017-tr-0-1006",
+  "historyId": "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Firefox\")",
+  "fullName": "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Firefox\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "EDGE-DESK06"
+    },
+    {
+      "name": "testClass",
+      "value": "HelloWorld.Tests.SimpleFormTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "SimpleFormTest1"
+    },
+    {
+      "name": "package",
+      "value": "HelloWorld.Tests.SimpleFormTest"
+    }
+  ],
+  "links": [],
+  "name": "SimpleFormTest1(\"Firefox\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SimpleFormTest1(\"Firefox\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "26d852e875734f4384be42046646055a-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1573059469279,
+      "stop": 1573059513042
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Firefox"
+    }
+  ],
+  "start": 1573059469279,
+  "stop": 1573059513043
+}

@@ -1,0 +1,10 @@
+﻿<environment>
+  <parameter>
+    <key>OS</key>
+    <value>Windows 10</value>
+  </parameter>
+  <parameter>
+    <key>Browser</key>
+    <value>Chrome 78</value>
+  </parameter>
+</environment>

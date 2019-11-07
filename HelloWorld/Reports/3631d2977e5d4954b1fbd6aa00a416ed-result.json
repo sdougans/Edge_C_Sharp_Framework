@@ -1,0 +1,68 @@
+{
+  "uuid": "3517171c-7e9d-49a1-90df-e6d22316d509-tr-0-1001",
+  "historyId": "HelloWorld.Tests.LoginTest.LoginTest1(\"Chrome\")",
+  "fullName": "HelloWorld.Tests.LoginTest.LoginTest1(\"Chrome\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "EDGE-DESK06"
+    },
+    {
+      "name": "testClass",
+      "value": "HelloWorld.Tests.LoginTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoginTest1"
+    },
+    {
+      "name": "package",
+      "value": "HelloWorld.Tests.LoginTest"
+    }
+  ],
+  "links": [],
+  "name": "LoginTest1(\"Chrome\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoginTest1(\"Chrome\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "04cf15e731c64f16974306a4534fd582-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1573059796281,
+      "stop": 1573059804295
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Chrome"
+    }
+  ],
+  "start": 1573059796280,
+  "stop": 1573059804303
+}

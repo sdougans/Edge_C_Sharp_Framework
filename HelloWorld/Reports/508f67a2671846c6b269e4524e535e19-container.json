@@ -1,0 +1,45 @@
+{
+  "uuid": "54c522f1-0970-4e81-bbe4-73b229609943-tc-0-1004",
+  "name": "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Chrome\")",
+  "children": [
+    "52de844e-3baa-4378-9ff3-42863e0d1a53-tr-0-1005"
+  ],
+  "befores": [],
+  "afters": [
+    {
+      "name": "CloseBrowser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1573057509139,
+      "stop": 1573057509139
+    },
+    {
+      "name": "AfterAllTests",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1573057509139,
+      "stop": 1573057509139
+    }
+  ],
+  "links": [],
+  "start": 1573057500769,
+  "stop": 1573057509142
+}

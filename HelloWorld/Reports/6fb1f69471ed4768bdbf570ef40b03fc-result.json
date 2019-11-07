@@ -1,0 +1,68 @@
+{
+  "uuid": "d47438ae-9c70-4a69-8ac2-8f4b8c1408d8-tr-0-1004",
+  "historyId": "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Chrome\")",
+  "fullName": "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Chrome\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "EDGE-DESK06"
+    },
+    {
+      "name": "testClass",
+      "value": "HelloWorld.Tests.SimpleFormTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "SimpleFormTest1"
+    },
+    {
+      "name": "package",
+      "value": "HelloWorld.Tests.SimpleFormTest"
+    }
+  ],
+  "links": [],
+  "name": "SimpleFormTest1(\"Chrome\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SimpleFormTest1(\"Chrome\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "cdfb1e26339347b9b2f70746aecc4986-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1573060382380,
+      "stop": 1573060390572
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "Chrome"
+    }
+  ],
+  "start": 1573060382379,
+  "stop": 1573060390573
+}

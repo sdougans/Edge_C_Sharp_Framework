@@ -1,0 +1,290 @@
+{
+  "uid" : "ec471e6c93354252",
+  "name" : "LoginTest1(\"Chrome\")",
+  "fullName" : "HelloWorld.Tests.LoginTest.LoginTest1(\"Chrome\")",
+  "historyId" : "HelloWorld.Tests.LoginTest.LoginTest1(\"Chrome\")",
+  "time" : {
+    "start" : 1573120593389,
+    "stop" : 1573120600759,
+    "duration" : 7370
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "LoginTest1(\"Chrome\")",
+      "time" : {
+        "start" : 1573120593390,
+        "stop" : 1573120600753,
+        "duration" : 7363
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "78023d617e908095",
+        "name" : "Console Output",
+        "source" : "78023d617e908095.txt",
+        "type" : "text/plain",
+        "size" : 17
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "CloseBrowser",
+    "time" : {
+      "start" : 1573120600745,
+      "stop" : 1573120600745,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "AfterAllTests",
+    "time" : {
+      "start" : 1573120600746,
+      "stop" : 1573120600746,
+      "duration" : 0
+    },
+    "status" : "unknown",
+    "statusMessage" : "It's not possible to get status of OneTimeTearDown",
+    "statusTrace" : "See Allure.NUnit wiki",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "ParallelWorker#3"
+  }, {
+    "name" : "host",
+    "value" : "EDGE-DESK06"
+  }, {
+    "name" : "testClass",
+    "value" : "HelloWorld.Tests.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "LoginTest1"
+  }, {
+    "name" : "package",
+    "value" : "HelloWorld.Tests.LoginTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Param #0",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9ca3d58c3d111311",
+      "status" : "failed",
+      "statusDetails" : "System.NullReferenceException : Object reference not set to an instance of an object.",
+      "time" : {
+        "start" : 1573119968231,
+        "stop" : 1573120001324,
+        "duration" : 33093
+      }
+    }, {
+      "uid" : "9a706e0127f139e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573060551048,
+        "stop" : 1573060558156,
+        "duration" : 7108
+      }
+    }, {
+      "uid" : "14b1b812c0c8c563",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573060382379,
+        "stop" : 1573060389744,
+        "duration" : 7365
+      }
+    }, {
+      "uid" : "bcd097725ebec0c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573060304820,
+        "stop" : 1573060314190,
+        "duration" : 9370
+      }
+    }, {
+      "uid" : "a3c6dc8b7aa7a819",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573060037606,
+        "stop" : 1573060044417,
+        "duration" : 6811
+      }
+    }, {
+      "uid" : "772c9fd055f053af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059930712,
+        "stop" : 1573059938097,
+        "duration" : 7385
+      }
+    }, {
+      "uid" : "f55f236dfc30fab0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059887610,
+        "stop" : 1573059895029,
+        "duration" : 7419
+      }
+    }, {
+      "uid" : "b05d007b65f4e8b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059796280,
+        "stop" : 1573059804303,
+        "duration" : 8023
+      }
+    }, {
+      "uid" : "93499611b46edfd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059461330,
+        "stop" : 1573059468827,
+        "duration" : 7497
+      }
+    }, {
+      "uid" : "623408a50e4e490e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059273514,
+        "stop" : 1573059281225,
+        "duration" : 7711
+      }
+    }, {
+      "uid" : "394e199b502ee59f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059153500,
+        "stop" : 1573059160796,
+        "duration" : 7296
+      }
+    }, {
+      "uid" : "8ba634915b2e3b98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059040153,
+        "stop" : 1573059047559,
+        "duration" : 7406
+      }
+    }, {
+      "uid" : "a06321917756b5df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573058822134,
+        "stop" : 1573058829328,
+        "duration" : 7194
+      }
+    }, {
+      "uid" : "9ace6d491d5fc746",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573058687015,
+        "stop" : 1573058694456,
+        "duration" : 7441
+      }
+    }, {
+      "uid" : "497e73c48cf6f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573058575552,
+        "stop" : 1573058583245,
+        "duration" : 7693
+      }
+    }, {
+      "uid" : "d38d0be5333684c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573058421350,
+        "stop" : 1573058429072,
+        "duration" : 7722
+      }
+    }, {
+      "uid" : "fbc798ea6132c7a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573058285455,
+        "stop" : 1573058293370,
+        "duration" : 7915
+      }
+    }, {
+      "uid" : "7597d1319c6b4ae1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573057711124,
+        "stop" : 1573057718372,
+        "duration" : 7248
+      }
+    }, {
+      "uid" : "702c3c71c38defc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573057500773,
+        "stop" : 1573057508686,
+        "duration" : 7913
+      }
+    }, {
+      "uid" : "734a615757d0eaba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573057070728,
+        "stop" : 1573057078448,
+        "duration" : 7720
+      }
+    }, {
+      "uid" : "a68d63a2a7d85e48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573056879162,
+        "stop" : 1573056886371,
+        "duration" : 7209
+      }
+    }, {
+      "uid" : "e243ae196b02df04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573056568211,
+        "stop" : 1573056575315,
+        "duration" : 7104
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec471e6c93354252.json",
+  "parameterValues" : [ "Chrome" ]
+}

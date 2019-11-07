@@ -1,0 +1,45 @@
+{
+  "uuid": "4592b0dd-f3ab-4351-a8a5-59d45730c958-tc-0-1000",
+  "name": "HelloWorld.Tests.LoginTest.LoginTest1(\"Firefox\")",
+  "children": [
+    "f24cd17c-fd1b-4b89-b744-f0e1b9d9561c-tr-0-1002"
+  ],
+  "befores": [],
+  "afters": [
+    {
+      "name": "CloseBrowser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1573058318820,
+      "stop": 1573058318820
+    },
+    {
+      "name": "AfterAllTests",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1573058318820,
+      "stop": 1573058318820
+    }
+  ],
+  "links": [],
+  "start": 1573058293451,
+  "stop": 1573058318823
+}

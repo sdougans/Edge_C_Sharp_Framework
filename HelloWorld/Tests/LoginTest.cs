@@ -1,24 +1,17 @@
 ﻿using HelloWorld.Pages;
+using NUnit.Allure.Core;
 using NUnit.Framework;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 using System;
 
 namespace HelloWorld.Tests
 {
+    [AllureNUnit]
     [Parallelizable]
     class LoginTest : TestBase
     {
         WelcomePage welcomePage;
         LoginPage loginPage;
         HomePage homePage;
-
-        [SetUp]
-        public void StartBrowser()
-        {
-
-        }
-
 
         [Test]
         [TestCaseSource(typeof(TestBase), "BrowserToRunWith")]
@@ -37,13 +30,6 @@ namespace HelloWorld.Tests
             homePage.waitForPageLoad();
             Assert.IsTrue(homePage.getAllText().Contains("You are logged in!"));
             Console.WriteLine("Login test done");
-        }
-
-        [TearDown]
-        public void CloseBrowser()
-        {
-            homePage.clickLink("Logout");
-            driver.SwitchTo().Alert().Accept();
         }
 
     }

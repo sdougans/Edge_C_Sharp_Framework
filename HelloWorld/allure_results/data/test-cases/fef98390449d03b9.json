@@ -1,0 +1,111 @@
+{
+  "uid" : "fef98390449d03b9",
+  "name" : "SimpleFormTest1(\"Chrome\")",
+  "fullName" : "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Chrome\")",
+  "historyId" : "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Chrome\")",
+  "time" : {
+    "start" : 1573059796280,
+    "stop" : 1573059804616,
+    "duration" : 8336
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "SimpleFormTest1(\"Chrome\")",
+      "time" : {
+        "start" : 1573059796281,
+        "stop" : 1573059804616,
+        "duration" : 8335
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cd61233b7e2b4e87",
+        "name" : "Console Output",
+        "source" : "cd61233b7e2b4e87.txt",
+        "type" : "text/plain",
+        "size" : 18
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "CloseBrowser",
+    "time" : {
+      "start" : 1573059804615,
+      "stop" : 1573059804615,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "AfterAllTests",
+    "time" : {
+      "start" : 1573059804615,
+      "stop" : 1573059804615,
+      "duration" : 0
+    },
+    "status" : "unknown",
+    "statusMessage" : "It's not possible to get status of OneTimeTearDown",
+    "statusTrace" : "See Allure.NUnit wiki",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : true
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "ParallelWorker#3"
+  }, {
+    "name" : "host",
+    "value" : "EDGE-DESK06"
+  }, {
+    "name" : "testClass",
+    "value" : "HelloWorld.Tests.SimpleFormTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "SimpleFormTest1"
+  }, {
+    "name" : "package",
+    "value" : "HelloWorld.Tests.SimpleFormTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Param #0",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fef98390449d03b9.json",
+  "parameterValues" : [ "Chrome" ]
+}

@@ -1,9 +1,11 @@
 ﻿using HelloWorld.Pages;
+using NUnit.Allure.Core;
 using NUnit.Framework;
 using System;
 
 namespace HelloWorld.Tests
 {
+    [AllureNUnit]
     [Parallelizable]
     class SimpleFormTest : TestBase
     {
@@ -11,12 +13,6 @@ namespace HelloWorld.Tests
         LoginPage loginPage;
         WelcomePage welcomePage;
         SimpleFormPage simpleFormPage;
-
-        [SetUp]
-        public void StartBrowser()
-        {
-
-        }
 
         [Test]
         [TestCaseSource(typeof(TestBase), "BrowserToRunWith")]

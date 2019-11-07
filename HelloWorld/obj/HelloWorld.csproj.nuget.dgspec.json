@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Stuart/Projects/C_Sharp/Edge_C_Sharp_Framework/HelloWorld/HelloWorld.csproj": {}
+    "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/Stuart/Projects/C_Sharp/Edge_C_Sharp_Framework/HelloWorld/HelloWorld.csproj": {
+    "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Stuart/Projects/C_Sharp/Edge_C_Sharp_Framework/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/Stuart/Projects/C_Sharp/Edge_C_Sharp_Framework/HelloWorld/HelloWorld.csproj",
-        "packagesPath": "/Users/Stuart/.nuget/packages/",
-        "outputPath": "/Users/Stuart/Projects/C_Sharp/Edge_C_Sharp_Framework/HelloWorld/obj/",
+        "projectPath": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\sdougans\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Stuart/.config/NuGet/NuGet.Config"
+          "C:\\Users\\sdougans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +45,10 @@
             "NUnit": {
               "target": "Package",
               "version": "[3.12.0, )"
+            },
+            "NUnit.Allure": {
+              "target": "Package",
+              "version": "[1.0.6, )"
             },
             "NUnit3TestAdapter": {
               "target": "Package",
@@ -88,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

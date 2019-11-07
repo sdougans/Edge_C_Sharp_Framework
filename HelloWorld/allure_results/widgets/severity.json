@@ -1,0 +1,41 @@
+[ {
+  "uid" : "d165f1014e3a4379",
+  "name" : "SimpleFormTest1(\"Chrome\")",
+  "time" : {
+    "start" : 1573120593389,
+    "stop" : 1573120601563,
+    "duration" : 8174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "330257a4654e967f",
+  "name" : "LoginTest1(\"Firefox\")",
+  "time" : {
+    "start" : 1573059468917,
+    "stop" : 1573059492154,
+    "duration" : 23237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec471e6c93354252",
+  "name" : "LoginTest1(\"Chrome\")",
+  "time" : {
+    "start" : 1573120593389,
+    "stop" : 1573120600759,
+    "duration" : 7370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dcd691ee2618b5b",
+  "name" : "SimpleFormTest1(\"Firefox\")",
+  "time" : {
+    "start" : 1573059469279,
+    "stop" : 1573059513043,
+    "duration" : 43764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

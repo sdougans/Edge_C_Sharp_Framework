@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "Windows 10" ],
+  "name" : "OS"
+}, {
+  "values" : [ "Chrome 78" ],
+  "name" : "Browser"
+} ]

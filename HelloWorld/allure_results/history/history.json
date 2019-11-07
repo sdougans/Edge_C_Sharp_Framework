@@ -1,0 +1,78 @@
+{
+  "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Chrome\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d165f1014e3a4379",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573120593389,
+        "stop" : 1573120601563,
+        "duration" : 8174
+      }
+    } ]
+  },
+  "HelloWorld.Tests.LoginTest.LoginTest1(\"Chrome\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec471e6c93354252",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573120593389,
+        "stop" : 1573120600759,
+        "duration" : 7370
+      }
+    } ]
+  },
+  "HelloWorld.Tests.SimpleFormTest.SimpleFormTest1(\"Firefox\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9dcd691ee2618b5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059469279,
+        "stop" : 1573059513043,
+        "duration" : 43764
+      }
+    } ]
+  },
+  "HelloWorld.Tests.LoginTest.LoginTest1(\"Firefox\")" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "330257a4654e967f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1573059468917,
+        "stop" : 1573059492154,
+        "duration" : 23237
+      }
+    } ]
+  }
+}

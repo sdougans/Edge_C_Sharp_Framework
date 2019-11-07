@@ -1,0 +1,974 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "EDGE-DESK06",
+    "children" : [ {
+      "name" : "ParallelWorker#3",
+      "children" : [ {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "43ba8032c1acc586",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058421350,
+          "stop" : 1573058430138,
+          "duration" : 8788
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "37f7b110b860d233",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058687015,
+          "stop" : 1573058695382,
+          "duration" : 8367
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "ede8a3afa3ec8f07",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059153500,
+          "stop" : 1573059161547,
+          "duration" : 8047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "a83d7ab72f818e6",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057711124,
+          "stop" : 1573057719147,
+          "duration" : 8023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "330257a4654e967f",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059468917,
+          "stop" : 1573059492154,
+          "duration" : 23237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "d4475cc5d6b3c8bb",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058430141,
+          "stop" : 1573058474234,
+          "duration" : 44093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "ec471e6c93354252",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573120593389,
+          "stop" : 1573120600759,
+          "duration" : 7370
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "24b25bd21e2860ba",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057719155,
+          "stop" : 1573057762144,
+          "duration" : 42989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "b30e3c978c31f4de",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059161551,
+          "stop" : 1573059204575,
+          "duration" : 43024
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "93499611b46edfd7",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059461330,
+          "stop" : 1573059468827,
+          "duration" : 7497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "d249d7244ea5f152",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058695387,
+          "stop" : 1573058739352,
+          "duration" : 43965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "fef98390449d03b9",
+        "parentUid" : "ed3b388685fc28eb3c52c3cc66019b48",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059796280,
+          "stop" : 1573059804616,
+          "duration" : 8336
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      } ],
+      "uid" : "ed3b388685fc28eb3c52c3cc66019b48"
+    }, {
+      "name" : "ParallelWorker#4",
+      "children" : [ {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "772c9fd055f053af",
+        "parentUid" : "fa3eec584c5d4875b61abd20437b249c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059930712,
+          "stop" : 1573059938097,
+          "duration" : 7385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "7d1d124e5aa2c697",
+        "parentUid" : "fa3eec584c5d4875b61abd20437b249c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060551048,
+          "stop" : 1573060559031,
+          "duration" : 7983
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "14b1b812c0c8c563",
+        "parentUid" : "fa3eec584c5d4875b61abd20437b249c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060382379,
+          "stop" : 1573060389744,
+          "duration" : 7365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      } ],
+      "uid" : "fa3eec584c5d4875b61abd20437b249c"
+    }, {
+      "name" : "ParallelWorker#2",
+      "children" : [ {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "a06321917756b5df",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058822134,
+          "stop" : 1573058829328,
+          "duration" : 7194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "beaaabab8d2aba19",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056879162,
+          "stop" : 1573056887322,
+          "duration" : 8160
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "84bb51680032d314",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059273514,
+          "stop" : 1573059281521,
+          "duration" : 8007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "70be5bf97c833dae",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057718421,
+          "stop" : 1573057741326,
+          "duration" : 22905
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "684d73fc53562f6a",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058829385,
+          "stop" : 1573058852894,
+          "duration" : 23509
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "afd3665efe5b2291",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058575552,
+          "stop" : 1573058584159,
+          "duration" : 8607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "c96dd8cf7f2f830e",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059160852,
+          "stop" : 1573059184208,
+          "duration" : 23356
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "f6b8bd5ac1e65f97",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056568211,
+          "stop" : 1573056576154,
+          "duration" : 7943
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "9b4b1b1719322275",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059040153,
+          "stop" : 1573059048421,
+          "duration" : 8268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "299c756f63fb9fd7",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060037606,
+          "stop" : 1573060045506,
+          "duration" : 7900
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "a71f3448404f56aa",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057500773,
+          "stop" : 1573057509140,
+          "duration" : 8367
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "c1e51dd2d32080c9",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059281524,
+          "stop" : 1573059325255,
+          "duration" : 43731
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "6c58d8c1b829b289",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060304820,
+          "stop" : 1573060315027,
+          "duration" : 10207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "3a6ef05826a2a488",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057078794,
+          "stop" : 1573057123644,
+          "duration" : 44850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "6d825f80c421b440",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056887327,
+          "stop" : 1573056931117,
+          "duration" : 43790
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "394e199b502ee59f",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059153500,
+          "stop" : 1573059160796,
+          "duration" : 7296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "a54d6f8a512de35c",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058694516,
+          "stop" : 1573058718481,
+          "duration" : 23965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "9ace6d491d5fc746",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058687015,
+          "stop" : 1573058694456,
+          "duration" : 7441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "9ca3d58c3d111311",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "failed",
+        "time" : {
+          "start" : 1573119968231,
+          "stop" : 1573120001324,
+          "duration" : 33093
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "ec1dcbe16b9b01c5",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058584165,
+          "stop" : 1573058627199,
+          "duration" : 43034
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "17af28691a606110",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056576159,
+          "stop" : 1573056619218,
+          "duration" : 43059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "9a706e0127f139e3",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060551048,
+          "stop" : 1573060558156,
+          "duration" : 7108
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "4db75582a68a54b6",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057509144,
+          "stop" : 1573057552303,
+          "duration" : 43159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "1c9c45d21cbaaa37",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057070728,
+          "stop" : 1573057078790,
+          "duration" : 8062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "c3659ea0076122b9",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059048425,
+          "stop" : 1573059091466,
+          "duration" : 43041
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "d94c2ce3960bc5f5",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059930712,
+          "stop" : 1573059938702,
+          "duration" : 7990
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "c8aa01ac171785dd",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059887610,
+          "stop" : 1573059895727,
+          "duration" : 8117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "b05d007b65f4e8b8",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059796280,
+          "stop" : 1573059804303,
+          "duration" : 8023
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "e44786e38315fb3c",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058285455,
+          "stop" : 1573058294501,
+          "duration" : 9046
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "7ce8a726a60b5d48",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058294511,
+          "stop" : 1573058339082,
+          "duration" : 44571
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "7597d1319c6b4ae1",
+        "parentUid" : "a60b705a5de753ecfdfa43151a679592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057711124,
+          "stop" : 1573057718372,
+          "duration" : 7248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      } ],
+      "uid" : "a60b705a5de753ecfdfa43151a679592"
+    }, {
+      "name" : "ParallelWorker#1",
+      "children" : [ {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "d165f1014e3a4379",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573120593389,
+          "stop" : 1573120601563,
+          "duration" : 8174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "50a9a25da79e23a7",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056886421,
+          "stop" : 1573056910311,
+          "duration" : 23890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "6fb85e2ff2e5db91",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058583298,
+          "stop" : 1573058606714,
+          "duration" : 23416
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "702c3c71c38defc3",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057500773,
+          "stop" : 1573057508686,
+          "duration" : 7913
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "497e73c48cf6f4",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058575552,
+          "stop" : 1573058583245,
+          "duration" : 7693
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "56c9a87d6618f0ae",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058429140,
+          "stop" : 1573058453473,
+          "duration" : 24333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "623408a50e4e490e",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059273514,
+          "stop" : 1573059281225,
+          "duration" : 7711
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "bcc72c088e8cd7ac",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058293451,
+          "stop" : 1573058318822,
+          "duration" : 25371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "8ba634915b2e3b98",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059040153,
+          "stop" : 1573059047559,
+          "duration" : 7406
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "34587d4b0824e146",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058822131,
+          "stop" : 1573058830538,
+          "duration" : 8407
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "620020cba9218b11",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060382379,
+          "stop" : 1573060390573,
+          "duration" : 8194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "f55f236dfc30fab0",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059887610,
+          "stop" : 1573059895029,
+          "duration" : 7419
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "d38d0be5333684c1",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058421350,
+          "stop" : 1573058429072,
+          "duration" : 7722
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "e243ae196b02df04",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056568211,
+          "stop" : 1573056575315,
+          "duration" : 7104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "a68d63a2a7d85e48",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056879162,
+          "stop" : 1573056886371,
+          "duration" : 7209
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "4c1c36f61bdd2afb",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057508786,
+          "stop" : 1573057531933,
+          "duration" : 23147
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "c3d052dc6eab8a33",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058830541,
+          "stop" : 1573058874525,
+          "duration" : 43984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "bcd097725ebec0c4",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060304820,
+          "stop" : 1573060314190,
+          "duration" : 9370
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "734a615757d0eaba",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057070728,
+          "stop" : 1573057078448,
+          "duration" : 7720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Chrome\")",
+        "uid" : "5aac5e62347dcfa3",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059461330,
+          "stop" : 1573059469276,
+          "duration" : 7946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "16aa95e6d9777c47",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573057078501,
+          "stop" : 1573057102606,
+          "duration" : 24105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "a3c6dc8b7aa7a819",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573060037606,
+          "stop" : 1573060044417,
+          "duration" : 6811
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "de3fac03406c069e",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573056575363,
+          "stop" : 1573056598648,
+          "duration" : 23285
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "4300463898b7adf6",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059281272,
+          "stop" : 1573059304426,
+          "duration" : 23154
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Chrome\")",
+        "uid" : "fbc798ea6132c7a1",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573058285455,
+          "stop" : 1573058293370,
+          "duration" : 7915
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Chrome" ]
+      }, {
+        "name" : "SimpleFormTest1(\"Firefox\")",
+        "uid" : "9dcd691ee2618b5b",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059469279,
+          "stop" : 1573059513043,
+          "duration" : 43764
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      }, {
+        "name" : "LoginTest1(\"Firefox\")",
+        "uid" : "3d19416b165195ae",
+        "parentUid" : "0f2fc16ebf7880301d40df49874a7169",
+        "status" : "passed",
+        "time" : {
+          "start" : 1573059047611,
+          "stop" : 1573059070523,
+          "duration" : 22912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Firefox" ]
+      } ],
+      "uid" : "0f2fc16ebf7880301d40df49874a7169"
+    } ],
+    "uid" : "be8d476795554541f12c41bb89f3bf4a"
+  } ]
+}
