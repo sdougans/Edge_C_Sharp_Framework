@@ -18,6 +18,8 @@ Open Microdoft Visual Studio 2019
 
 Launch the project - C:/Users/{username}/source/repos/{project_name}
 
+
+
 NUnit3 tests located in /Tests/*.cs
 
 Page Objects located in /Pages/*.cs
