@@ -48,7 +48,6 @@ namespace HelloWorld.Tests
             Assert.AreEqual(genderResult, "male");
             Assert.AreEqual(ageResult, "70");
             Assert.AreEqual(passwordResult, "Born to Run");
-            Console.WriteLine("Simple test done");
         }
 
     }
