@@ -14,12 +14,6 @@ Run git clone https://github.com/sdougans/Edge_C_Sharp_Framework.git
 
 ### Usage
 
-Open Microdoft Visual Studio 2019
-
-Launch the project - C:/Users/{username}/source/repos/{project_name}
-
-
-
 NUnit3 tests located in /Tests/*.cs
 
 Page Objects located in /Pages/*.cs
