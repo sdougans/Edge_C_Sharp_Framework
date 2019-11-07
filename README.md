@@ -1,5 +1,3 @@
-# Edge_C_Sharp_Framework
-
 ## A simple C# framework using Selenium WebDriver and NUnit3
 
 ### Setup
