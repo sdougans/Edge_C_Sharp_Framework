@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Nov 06 16:57:49 GMT 2019","Wed Nov 06 16:58:33 GMT 2019","43764","","","","HelloWorld.Tests.SimpleFormTest","SimpleFormTest1","SimpleFormTest1(""Firefox"")",""
-"passed","Thu Nov 07 09:56:33 GMT 2019","Thu Nov 07 09:56:40 GMT 2019","7370","","","","HelloWorld.Tests.LoginTest","LoginTest1","LoginTest1(""Chrome"")",""
-"passed","Wed Nov 06 16:57:48 GMT 2019","Wed Nov 06 16:58:12 GMT 2019","23237","","","","HelloWorld.Tests.LoginTest","LoginTest1","LoginTest1(""Firefox"")",""
-"passed","Thu Nov 07 09:56:33 GMT 2019","Thu Nov 07 09:56:41 GMT 2019","8174","","","","HelloWorld.Tests.SimpleFormTest","SimpleFormTest1","SimpleFormTest1(""Chrome"")",""
