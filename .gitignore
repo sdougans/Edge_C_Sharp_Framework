@@ -1,1 +1,4 @@
 .vs/
+/HelloWorld/allure_results/
+/HelloWorld/Reports/*.json
+/HelloWorld/Reports/*.txt
