@@ -4496,9 +4496,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\Edge_C_Sharp_Framework.csproj",
+      "projectName": "Edge_C_Sharp_Framework",
+      "projectPath": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\Edge_C_Sharp_Framework.csproj",
       "packagesPath": "C:\\Users\\sdougans\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sdougans\\source\\repos\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
