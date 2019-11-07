@@ -9,6 +9,7 @@ namespace HelloWorld.Tests
     [Parallelizable]
     class SimpleFormTest : TestBase
     {
+        const String baseUrl = "http://wsus-server01:81/EdgeTrainingTest/pages/welcomePage.html";
         HomePage homePage;
         LoginPage loginPage;
         WelcomePage welcomePage;
@@ -18,7 +19,7 @@ namespace HelloWorld.Tests
         [TestCaseSource(typeof(TestBase), "BrowserToRunWith")]
         public void SimpleFormTest1(String browsername)
         {
-            SetUp(browsername);
+            SetUp(browsername, baseUrl);
             welcomePage = new WelcomePage(driver);
             welcomePage.clickLoginLink();
 
